@@ -15,7 +15,7 @@ local LocalPlayer        = Players.LocalPlayer
 -- ========================
 -- KEY SYSTEM CONFIG
 -- ========================
-local KEYS_URL = "https://gist.githubusercontent.com/kameramerate-star/007aa4bbec307863f0e899882c099e33/raw/90b5f03767104268b439420988b2f40cb66997d7/gistfile1.txt"
+local KEYS_URL = "https://gist.githubusercontent.com/kameramerate-star/007aa4bbec307863f0e899882c099e33/raw/cfa7e40bcbf1c3d21a4567808c75e178501093f0/gistfile1.txt"
 
 local function ValidarKey(key)
     local ok, res = pcall(function()
